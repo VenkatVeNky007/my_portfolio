@@ -6,13 +6,13 @@ function App() {
     <div className="body">
       <div className='main'>
         <div className='header'>
-        <img src='./ppic.jpg' alt="profilepic" className='profilepic'/><br/>
+        <img src='https://venkatvenky007.github.io/my_portfolio/ppic.jpg' alt="profilepic" className='profilepic'/><br/>
         <h1 className='name'>PITHANI VENKATA SAI BABA</h1>
         <p>FrontEnd Developer</p>
         <p>Call: 7569822741</p>
         <p>Mail: venky6572@gmail.com</p>
         <p>Kukatpally/Hyderabad</p><br/>
-        <a href='https://venkatvenky007.github.io/Resume' target='_blank'>my Resume</a>
+        <a href='https://venkatvenky007.github.io/Resume' target='_blank'>My Resume</a>
         <a  href='https://github.com/VenkatVeNky007' target='_blank'>My Github Account</a>
         <a  href='https://www.linkedin.com/in/venkat-venky-21a27a282' target='_blank'>My Linkdin Account</a>
         </div><br/><hr/>
